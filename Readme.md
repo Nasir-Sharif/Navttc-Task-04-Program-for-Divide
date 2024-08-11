@@ -31,11 +31,8 @@ print("Result of Division of", Number1, "and", Number2, "and", Number3, "is", Re
 1. **Clone the Repository:**
    - Clone the repository using the following command:
      ```bash  
-     ``` https://github.com/Nasir-Sharif/Navttc-Task-04-Program-for-Divide.git  
+     https://github.com/Nasir-Sharif/Navttc-Task-04-Program-for-Divide.git  
 
-2. **Navigate to the Directory:**
-   - Change into the repository directory:
-     ```bash
 
 ## How to Run
 
